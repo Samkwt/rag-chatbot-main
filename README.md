@@ -1,4 +1,4 @@
-# Create your first AI Chatbot with RAG 
+# My first AI Chatbot with RAG 
 ## Features
 - ✅ What is RAG?
 - ✅ How to use it with LangChain with Pinecone
